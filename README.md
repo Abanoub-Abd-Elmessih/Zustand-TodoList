@@ -1,8 +1,25 @@
-# React + Vite
+# Simple To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple to-do list application built with **Zustand** for state management, **Framer Motion** for animations, and **Tailwind CSS** for styling. It was created as a learning project to get familiar with Zustand for managing state in React applications.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add and remove tasks
+- Animate task items on add and remove
+- Responsive design with Tailwind CSS
+- Simple and clean UI
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces
+- **Zustand**: A small, fast, and scalable state management solution
+- **Framer Motion**: A library for declarative animations in React
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Abanoub-Abd-Elmessih/Zustand-TodoList.git
+   cd Zustand-TodoList
